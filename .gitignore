@@ -31,3 +31,8 @@
 *.out
 *.app
 .vscode/settings.json
+Part4/.DS_Store
+.DS_Store
+Part3/oc
+Part4/factory
+*.txt
